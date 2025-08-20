@@ -50,3 +50,5 @@ The chart clearly shows that the company’s CAC consistently exceeds the indust
 ---
 
 By following these recommendations, the company can aim to reduce CAC closer to the industry benchmark, improve marketing efficiency, and enhance overall profitability.
+
+thank you
