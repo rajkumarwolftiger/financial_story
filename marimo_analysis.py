@@ -1,5 +1,6 @@
 import marimo
-
+import numpy as np
+import pandas as pd
 __generated_with = "0.1.0"
 app = marimo.App()
 
